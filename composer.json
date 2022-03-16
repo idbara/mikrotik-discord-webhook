@@ -1,0 +1,15 @@
+{
+  "name": "bara/mikrotik-discord-webhook",
+  "description": "Mikrotik Discord Webhook easily send monitoring logs to discord",
+  "type": "project",
+  "license": "MIT License",
+  "authors": [
+    {
+      "name": "idbara",
+      "email": "bararamadhan@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.2.0"
+  }
+}
